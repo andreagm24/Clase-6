@@ -1,6 +1,6 @@
 Proyecto modulo 6
 
-## intrucciones
+## instrucciones
 
 abrir index.html
 
